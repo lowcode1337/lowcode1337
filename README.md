@@ -1,6 +1,7 @@
 ## Security Researcher & Reverse Engineer
 
-**[nerestpc.com](https://nerestpc.com)** - My main project
+**[nerestpc.com](nere.st/p/pc)** - My main project
+**[nere.st](https://nere.st)** - Shortlink service
 
 ### 📫 Connect With Me
 
